@@ -1,0 +1,13 @@
+
+body{
+  background-image: radial-gradient(rgba(0, 0, 0, 0.068), rgba(0, 0, 0, 0.705), rgb(0, 0, 0)),
+    url(https://karmanhealth-karmanhealthcare.netdna-ssl.com/wp-content/uploads/2017/12/902-1024x520.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+html{
+  font-family:'Roboto Condensed', 'sans-serif'; 
+}
+
